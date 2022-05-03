@@ -1,6 +1,6 @@
 # Social Blade API demo
 
-This repository contains a simple Python script to query the Social Blade API to find Twitter data for a given user.
+This repository contains a simple Python script to query the [Social Blade](https://socialblade.com/) API to find Twitter data for a given user.
 
 ## Setup:
 
@@ -8,11 +8,11 @@ First install requirements.txt:
 
 `$ pip install -r requirements.txt`
 
-Save the Social Blade API user ID and access token as environment variables (these will be read by the Python script):
+Save the Social Blade user ID and access token as environment variables, named as below (these will be read by the Python script):
 
-`$ export ID=<yourID>`
+`$ export ID=yourID`
 
-`$ export TOKEN=<yourtoken>`
+`$ export TOKEN=yourtoken`
 
 ## Usage:
 
