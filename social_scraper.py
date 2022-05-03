@@ -1,5 +1,4 @@
 # Module imports
-from unicodedata import category
 import requests
 import os
 import sys
