@@ -1,5 +1,7 @@
 # Social Blade API demo
 
+This repository contains a simple Python script to query the Social Blade API to find Twitter data for a given user.
+
 ## Setup:
 
 First install requirements.txt: 
